@@ -6,8 +6,8 @@
 
 ## Hashing
 * [x]  Completed one question feom each checkpoint
-* [x]  I have uploded working solutions in the respective .cpp files
-* [x]  I have also uploded the output in the respective .png files
+* [x]  Uploded working solutions in the respective .cpp files
+* [x]  Uploded the output in the respective .png files
 
 ## Below is the gif showing the completed checkpoints
 <img src='https://github.com/SiddhataPatil/Assignment1_part2/blob/master/Assignment_1_part2.gif' width="750" height="550" />
