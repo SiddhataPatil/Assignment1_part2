@@ -10,4 +10,4 @@
 * [x]  Uploded the output in the respective .png files
 
 ## Below is the gif showing the completed checkpoints
-<img src=https://github.com/SiddhataPatil/Assignment1_part2/blob/master/Assignment1_part2_walkthrough.gif' width="750" height="750" />
+<img src='https://github.com/SiddhataPatil/Assignment1_part2/blob/master/Assignment1_part2_walkthrough.gif' width="750" height="750" />
